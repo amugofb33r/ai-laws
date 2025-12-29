@@ -348,5 +348,140 @@ Here are practical steps insurers should take now:
 * Track which states have **adopted the Model Bulletin** or are using the evaluation tool and adapt compliance strategies accordingly. ([NAIC][4])
 
 ---
-=
+# State Insurance Department Bulletins on AI
+---
+
+## **1) What It Is — Overview**
+
+**State Bulletins on AI in Insurance** are supervisory guidance documents issued by state insurance regulators (e.g., Delaware, Wisconsin, Iowa, Oklahoma, Connecticut) that **outline expectations for insurers’ use of artificial intelligence (AI) systems and technologies** in insurance practices. They are largely based on the **NAIC Model Bulletin on the Use of Artificial Intelligence Systems by Insurers**, adopted in December 2023, and adapted by individual states.([NAIC][1])
+
+These bulletins remind insurers that **decisions or actions impacting consumers made or supported by AI must comply with all applicable insurance laws and regulations** and may be subject to regulatory review or market conduct examination. They apply whether the AI involves predictive models, automated pricing, claims processing, generative imagery, image-based risk scoring, or other AI outputs.([OCI][2])
+
+---
+
+## **2) Who It Applies To — Covered Entities**
+
+State AI bulletins generally apply to:
+
+* **All insurers authorized to do business in the state** (life, property/casualty, health).([NAIC][1])
+* **Insurance carriers using AI systems** in any regulated practice, including underwriting, pricing/rating, marketing, claims, and risk assessment.([OCI][2])
+* In many states, guidance also applies to **third-party vendors and models used on behalf of insurers**, with expectations for due diligence and oversight.([McDermott][3])
+
+Unlike laws that single out specific AI applications (e.g., California health AI restrictions), these bulletins are broad statements of regulatory expectations for *all AI use cases*, including generative imagery models if those influence decision-making.([NAIC][1])
+
+---
+
+## **3) Why It Matters — Purpose and Policy Goals**
+
+State AI bulletins are intended to:
+
+**Promote Responsible AI Use**
+
+* Encourage insurers to deploy AI in ways that are **fair, transparent, and accountable**.([Skadden][4])
+
+**Protect Consumers**
+
+* Ensure that AI tools — including those that generate or interpret images (e.g., for visual risk assessment) — do **not produce inaccurate, biased, opaque, or discriminatory outcomes**.([OCI][2])
+
+**Ensure Legal Compliance**
+
+* Remind insurers that **existing insurance laws** (unfair trade practices, discrimination, claims practices, ratemaking) apply regardless of whether an AI or imagery model is involved.([NAIC][5])
+
+**Support Regulatory Oversight**
+
+* Provide regulators with a basis to **request documentation and examine AI governance**, testing, and outcomes during market conduct reviews or investigations.([McDermott][3])
+
+In short, the bulletins aim to *balance innovation with consumer protection and legal compliance* as AI becomes more deeply embedded in insurance operations.([State of Delaware News][6])
+
+---
+
+## **4) What Regulators Expect — Compliance Requirements**
+
+Though not laws themselves, these bulletins set **clear expectations** for insurer behavior:
+
+### **Governance & Written AI Program**
+
+Insurers are expected to **develop, implement, and maintain a documented AI systems program** (often called an *AIS Program*) that addresses:
+
+* Governance (board/senior management oversight)
+* Risk management controls
+* Internal audit functions
+* Lifecycle management (design, validation, deployment, monitoring) of AI systems.([NAIC][5])
+
+### **Risk Mitigation and Testing**
+
+* AI systems must be tested for **accuracy, bias, and fairness**, with controls proportionate to their potential impact.
+* Models involving imagery (e.g., visual risk scores) should fall under the same evaluation expectations if they affect underwriting or pricing decisions.([McDermott][3])
+
+### **Legal and Regulatory Compliance**
+
+* Decisions supported by AI must comply with **state unfair trade practice, claims, and ratemaking laws** and **anti-discrimination standards**.([Taft Law][7])
+
+### **Documentation and Examinations**
+
+* Regulators may request documentation on AI governance, third-party due diligence, validation results, consumer impacts, and controls during market conduct exams.([OCI][2])
+
+### **Consumer Transparency**
+
+* Bulletins encourage insurers to **inform consumers** when AI is used in decision-making and to be prepared to explain how models (including imagery or generative tools) influence outcomes.([NAIC][5])
+
+---
+
+## **5) Key Risks If Unmanaged**
+
+If insurers do not responsibly govern AI — including any AI that generates or uses imagery for decisions — they face several risks:
+
+**Consumer Harm**
+
+* Bias or errors in AI-generated content or image interpretation can lead to **inaccurate pricing, unfair non-renewals, or discriminatory outcomes**.([Carlton Fields][8])
+
+**Regulatory and Legal Risk**
+
+* Violations of state insurance laws (even if indirect via AI tools) can trigger **market conduct actions, fines, or corrective orders**.([OCI][2])
+
+**Reputational and Operational Risk**
+
+* Lack of transparency or explanation of AI decisions may erode **customer trust** and invite scrutiny from regulators or the public.([McDermott][3])
+
+**Model Risk**
+
+* Inadequately validated AI — including generative or image-based models — can degrade decision quality over time (e.g., due to data drift), harming risk assessment accuracy.([NAIC][5])
+
+---
+
+## **6) Practical Takeaway — What Insurers Should Do**
+
+To align with state bulletins and mitigate risks, insurers should:
+
+### **Build a Robust AI Governance Framework**
+
+* Establish a formal **AIS Program** that includes governance, policies, procedures, and oversight mechanisms.([McDermott][3])
+
+### **Inventory and Monitor AI Systems**
+
+* Identify all AI tools in use — including those involving imagery (e.g., for property risk assessment) — and evaluate them for consumer impact and compliance.([NAIC][5])
+
+### **Test and Validate**
+
+* Conduct **bias, accuracy, and fairness testing**, especially for systems that influence consumer outcomes. Document validation and ongoing monitoring.([McDermott][3])
+
+### **Vendor and Third-Party Oversight**
+
+* Ensure that third-party AI solutions (including image analytics providers) are covered by due diligence, contractual safeguards, and monitoring.([McDermott][3])
+
+### **Prepare for Regulatory Requests**
+
+* Maintain documentation ready for examiners, including governance structures, program controls, test results, and records of consumer communications.([OCI][2])
+
+### **Enhance Transparency**
+
+* Be ready to explain how AI systems — including those that use or generate visual data — affect decisions, and consider consumer notices where appropriate.([NAIC][5])
+
+---
+
+**In summary:** While there isn’t a set of bulletins *specifically* on “AI imagery,” **state AI bulletins address insurer use of all AI systems (including image-related models)** and reinforce that these systems must be governed, tested, documented, and compliant with existing insurance laws to protect consumers and support fair outcomes.([NAIC][1])
+
+---
+
+
 
