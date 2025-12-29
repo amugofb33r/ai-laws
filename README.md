@@ -493,6 +493,20 @@ The **new CCPA regulations on Automated Decision-Making Technology (ADMT)** are 
 
 The ADMT provisions are intended to give individuals greater *notice, transparency, control, and recourse* when automated systems significantly affect them (for example, through underwriting, pricing, claims decisions, or eligibility evaluations in insurance). The ADMT requirements will take effect in phases, with a key compliance deadline of **January 1, 2027** for automated decisionmaking provisions. 
 
+**Summary:**
+
+The regulations take effect **January 1, 2026**, but some requirements have delayed compliance deadlines:
+
+* **Cybersecurity audits:** Businesses must submit certifications to the CPPA based on annual revenue:
+
+  * Over $100M: **April 1, 2028**
+  * $50M–$100M: **April 1, 2029**
+  * Under $50M: **April 1, 2030**
+
+* **Risk assessments:** Compliance begins **January 1, 2026**. By **April 1, 2028**, businesses must submit an attestation that assessments were completed and a summary of the results to the CPPA.
+
+* **Automated decisionmaking technology (ADMT):** Businesses using ADMT for significant decisions must comply starting **January 1, 2027**.
+
 ---
 
 ## **2) Who It Applies To — Covered Entities**
