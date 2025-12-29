@@ -1,5 +1,10 @@
 # ai-laws
 
+# Summary
+
+U.S. insurance regulators have established a clear and increasingly unified approach to governing the use of Artificial Intelligence, automated decision-making, external consumer data, and AI-generated imagery across insurance operations. Through regulations, supervisory bulletins, model guidance, and privacy rules—including Colorado Regulation 10-1-1 (ECDIS), NYDFS Insurance Circular Letter No. 7, NAIC AI guidance, state AI imagery bulletins, and new CCPA automated decision-making requirements—regulators emphasize that insurers remain fully accountable for AI-driven outcomes, regardless of automation level or third-party involvement. The regulatory focus centers on preventing unfair discrimination, ensuring transparency and explainability, protecting consumer data, and maintaining market integrity as AI becomes embedded in underwriting, pricing, claims, marketing, and eligibility decisions.
+
+Across these frameworks, regulators consistently expect insurers to implement strong AI governance with board and senior management oversight, maintain thorough documentation and lifecycle controls, test models for bias, accuracy, and drift, oversee vendors and data sources, and provide meaningful disclosures and explanations to consumers. Unmanaged AI presents material regulatory, legal, financial, and reputational risk, with enforcement actions and consumer harm increasingly tied to opaque or inadequately governed systems. As a result, AI risk has become an enterprise-wide governance issue rather than a technical one, requiring insurers to adopt coordinated, proactive controls that support compliant innovation, regulatory readiness, and sustained consumer trust.
 
 ---
 # Colorado Insurance Regulation 10-1-1 
