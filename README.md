@@ -483,5 +483,127 @@ To align with state bulletins and mitigate risks, insurers should:
 
 ---
 
+# California CCPA Regulations* related to Automated Decision-Making Technology (ADMT)
+
+---
+
+## **1) What It Is — Overview**
+
+The **new CCPA regulations on Automated Decision-Making Technology (ADMT)** are a set of finalized rules under the California Consumer Privacy Act (CCPA) that *expand privacy and consumer rights protections* by specifically addressing how businesses use automated technologies — including AI systems — that **process personal information and replace or substantially replace human decision-making**. These rules are part of a broader regulatory package issued by the **California Privacy Protection Agency (CPPA)**, which also includes new requirements for **privacy risk assessments** and **annual cybersecurity audits**.
+
+The ADMT provisions are intended to give individuals greater *notice, transparency, control, and recourse* when automated systems significantly affect them (for example, through underwriting, pricing, claims decisions, or eligibility evaluations in insurance). The ADMT requirements will take effect in phases, with a key compliance deadline of **January 1, 2027** for automated decisionmaking provisions. 
+
+---
+
+## **2) Who It Applies To — Covered Entities**
+
+These CCPA regulations apply to **“businesses” as defined under the CCPA** that collect, use, or share the personal information of **California residents** (consumers), including insurance companies and other entities that fall within the CCPA’s scope. This may include insurers, brokers, third-party data processors, and vendors if they are subject to the CCPA or acting on behalf of a CCPA-covered business. 
+
+Importantly, CPPA clarified that:
+
+* **Insurance companies** that meet the CCPA definition of a business must comply with the CCPA with respect to personal information *not subject to the Insurance Code and its own regulations*. 
+
+The ADMT rules broadly apply when an entity uses automated systems (including AI/ML models) that make **“significant decisions”** concerning individuals — defined as decisions that have meaningful effects on a person’s rights, opportunities, or access to financial services, insurance products, employment, housing, education, healthcare, or other similarly consequential areas. 
+
+---
+
+## **3) Why It Matters — Purpose and Policy Goals**
+
+The new ADMT regulations expand the CCPA’s consumer privacy protections into the realm of **algorithmic and automated decision-making**. Their core goals include:
+
+* **Consumer Transparency and Control:** Ensuring individuals know when their personal data is used in automated decisions that may impact their lives, and giving them rights to access information about those decisions and *opt out* before they occur. 
+* **Fairness and Accountability:** Requiring businesses to assess and document potential risks (including bias, discriminatory outputs, reputational harm, and privacy harms) associated with automated systems before and during their use. 
+* **Privacy-Centered Innovation:** Encouraging responsible deployment of advanced technologies (including AI systems) without undermining consumer privacy rights. 
+
+In the context of insurance, automated decisionmaking systems (such as automated underwriting algorithms or pricing tools) can have *significant impact* on consumer access to coverage or premiums; thus these rules aim to provide *stronger consumer protections*, especially for underserved or vulnerable populations. 
+
+---
+
+## **4) What Regulators Expect — Compliance Requirements**
+
+Under the new CCPA ADMT regulations, regulators expect businesses (including insurers) to implement the following key compliance requirements:
+
+### **a) Define and Map ADMT Uses**
+
+* Identify whether any systems in use are *automated decision-making technologies* — defined as systems that process personal information and use computation to replace or substantially replace human decisionmaking.
+
+### **b) Notice and Disclosure**
+
+* Provide clear **pre-use notice** to California consumers before using ADMT for *significant decisions* affecting them.
+* Update privacy notices and policies to include descriptions of ADMT’s intended use and its impact on consumers. 
+
+### **c) Opt-Out Rights**
+
+* Offer consumers the ability to **opt out** of the use of ADMT in significant decisions, subject to limited exceptions under the CCPA framework. 
+
+### **d) Access and Explanation Rights**
+
+* Upon request, provide consumers with information about how ADMT was used in decisions about them, including logic and factors considered. 
+
+### **e) Risk Assessments**
+
+* Conduct and document **privacy risk assessments** (detailing benefits, reasonably foreseeable privacy risks, and safeguards) before engaging in processing that presents a significant privacy risk — including training or using ADMT. 
+
+### **f) Cybersecurity Audits**
+
+* Larger businesses must ultimately conduct annual **executive-certified cybersecurity audits** — though these relate more broadly to CCPA compliance rather than ADMT alone. 
+
+### **g) Phased Compliance**
+
+* Regulatory deadlines are phased: ADMT requirements (notice, opt-out, access) take effect **January 1, 2027**, while risk assessment and reporting requirements begin earlier (January 1, 2026) with staggered audit deadlines. 
+
+---
+
+## **5) Key Risks If Unmanaged**
+
+If insurers ignore or poorly manage compliance with the new CCPA ADMT regulations, they face several risks:
+
+### **Legal and Regulatory Risk**
+
+* Violations of the CCPA’s ADMT provisions can lead to enforcement actions, potential fines (where statutory), and orders to cease certain practices. 
+
+### **Consumer Harm and Discrimination**
+
+* Unchecked automated systems may produce biased, opaque, or inaccurate decisions, harming consumers (e.g., through adverse underwriting, denial of coverage, or pricing disparities).
+
+### **Reputational Risk**
+
+* Lack of transparency, notice, or consumer rights mechanisms can damage trust and invite public or regulatory scrutiny. 
+
+### **Operational and Compliance Risk**
+
+* Failing to conduct risk assessments or document decision processes may leave companies unable to substantiate good-faith compliance during audits or examinations. 
+
+---
+
+## **6) Practical Takeaways — What Insurers Should Do**
+
+Here are practical steps that insurers subject to CCPA ADMT rules should take now:
+
+### **1) Inventory and Evaluate ADMT**
+
+* Conduct a comprehensive **inventory of AI/automated decision systems** to determine which may meet the ADMT definition (including underwriting, pricing, claims scoring, and customer eligibility models).
+
+### **2) Map Data Flows**
+
+* Map how personal information flows through these systems, documenting what data are used, how decisions are generated, and how outputs affect significant consumer outcomes. 
+
+### **3) Update Policies and Notices**
+
+* Revise privacy policies and consumer notices to include clear disclosures about the use of ADMT.
+
+### **4) Build Opt-Out and Access Mechanisms**
+
+* Implement consumer-facing mechanisms to *provide opt-out choices* and to fulfill *access requests* about ADMT decision logic. 
+
+### **5) Conduct Risk Assessments**
+
+* Perform documented **privacy risk assessments** before processing personal information with ADMT tools, including those used for training or inference.
+
+### **6) Prepare for Audits**
+
+* Develop enterprise-wide compliance programs for cybersecurity and privacy audits required under the broader CCPA framework. 
+---
+
 
 
