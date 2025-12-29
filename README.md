@@ -222,7 +222,131 @@ To align with NYDFS expectations and mitigate risk, insurers using AIS or ECDIS 
 
 By following these steps and documenting each component, insurers can better comply with NYDFS’s guidance, support fair consumer outcomes, and harness innovation responsibly. ([Department of Financial Services][2])
 
-[1]: https://www.dfs.ny.gov/industry-guidance/circular-letters/cl2024-07?utm_source=chatgpt.com "Insurance Circular Letter No. 7 (2024): Use of Artificial Intelligence Systems and External Consumer Data and Information Sources in Insurance Underwriting and Pricing | Department of Financial Services"
-[2]: https://www.dfs.ny.gov/reports_and_publications/press_releases/pr20240711241?utm_source=chatgpt.com "DFS Superintendent Harris Adopts Insurance Guidance to Combat Discrimination in Artificial Intelligence | Department of Financial Services"
-[3]: https://www.dfs.ny.gov/reports_and_publications/press_releases/assembly_hearing_on_ai?utm_source=chatgpt.com "ASSEMBLY STANDING COMMITTEE ON INSURANCE AND ASSEMBLY"
-[4]: https://www.mayerbrown.com/en/insights/publications/2024/07/new-york-state-department-of-financial-services-adopts-ai-guidance?utm_source=chatgpt.com "New York State Department of Financial Services Adopts AI Guidance | Insights | Mayer Brown"
+
+# NAIC “Model Bulletin on the Use of Artificial Intelligence Systems by Insurers” and the draft NAIC AI Systems Evaluation Tool
+---
+
+## **1) What It Is — Overview**
+
+### **NAIC AI Model Bulletin**
+
+The **NAIC Model Bulletin on the Use of Artificial Intelligence Systems by Insurers** is a **standard-setting guidance document** developed by the National Association of Insurance Commissioners. It was adopted in **December 2023** and sets expectations for how insurers should **govern, risk-manage, document, and oversee the use of AI systems** in regulated insurance practices like underwriting, pricing, claims, marketing, and other operations. ([NAIC][1])
+
+### **NAIC AI Systems Evaluation Tool (Draft)**
+
+The **AI Systems Evaluation Tool** is a **draft, exposure-level guidance resource** being developed by the NAIC’s Big Data and Artificial Intelligence Working Group. It complements the Model Bulletin by offering **structured, tailorable templates, surveys, checklists, and exhibits** that regulators can use to **assess an insurer’s use of AI systems and related risks** in areas including consumer impacts, governance, financial reporting, and high-risk models. ([Eversheds Sutherland][2])
+
+Together these documents aim to move beyond high-level principles to more concrete **evaluation and oversight frameworks** for AI in insurance.
+
+---
+
+## **2) Who It Applies To — Covered Entities**
+
+Both the **Model Bulletin** and the **Draft Evaluation Tool** are targeted at:
+
+* **Insurance companies regulated by state insurance departments** within the U.S.
+* Entities using **AI systems** that make or support decisions in **regulated insurance practices** (underwriting, pricing, claims, marketing, risk classification, fraud detection, etc.). ([NAIC][1])
+
+These materials are **not binding laws** on their own, but they are intended for **adoption or adaptation by state regulators**, meaning insurers operating in jurisdictions that adopt the bulletin or use the evaluation tool will need to comply.
+
+---
+
+## **3) Why It Matters — Purpose and Policy Goals**
+
+The NAIC’s AI guidance has three core goals:
+
+### **a. Promote Responsible AI Use**
+
+* Help the insurance industry **adopt AI safely and ethically** across processes.
+* Provide a **framework for governance and documentation** of AI at scale. ([NAIC][1])
+
+### **b. Protect Consumers**
+
+* Ensure AI use does not lead to **inaccurate, arbitrary, unfairly discriminatory, or opaque outcomes** that could harm policyholders.
+* Encourage transparency about how AI affects decisions. ([S&P Global][3])
+
+### **c. Support Regulatory Oversight**
+
+* Equip state insurance regulators with tools and expectations to **evaluate AI risks**, including consumer and financial risks, and **ensure compliance with existing insurance laws** (e.g., unfair trade practices). ([Eversheds Sutherland][2])
+
+The Evaluation Tool specifically aims to help regulators **identify and assess the use and impact of AI systems** in a standardized way across carriers. ([Eversheds Sutherland][2])
+
+---
+
+## **4) What Regulators Expect — Compliance Requirements**
+
+### **From the NAIC Model Bulletin**
+
+Regulators distributing or adopting the bulletin expect insurers to develop and maintain a **written AI Systems Program** (AIS Program) that includes:
+
+* **Governance frameworks** with clear accountabilities for oversight throughout the AI lifecycle.
+* **Risk management and internal controls** designed to identify and mitigate adverse consumer outcomes.
+* **Policies and procedures** for AI deployment, documentation, monitoring, and testing.
+* **Third-party vendor oversight** ensuring due diligence, contractual protections, and performance monitoring for externally sourced AI.
+* **Consumer notice and transparency mechanisms** about AI’s role in decisions that affect them. ([NAIC][1])
+
+### **From the Draft Evaluation Tool**
+
+Though still in draft form, the Evaluation Tool provides regulators with optional **questionnaires and exhibits** to collect information such as:
+
+* **Inventory of AI systems** used and their scope.
+* **Narratives and checklists on governance and risk frameworks** relative to insurer’s AI use.
+* **Detailed disclosures for “high-risk” AI models** that could cause consumer or financial harm.
+* **Data details** about sources and use of data in AI systems.
+  These are meant to standardize **regulatory review and risk assessment** across companies. ([Eversheds Sutherland][2])
+
+---
+
+## **5) Key Risks If Unmanaged**
+
+Failing to proactively manage AI use exposes insurers to several risks:
+
+### **Consumer Harm**
+
+* AI systems could produce **biased, opaque, or unfair outcomes**, especially impacting protected classes or vulnerable populations. ([S&P Global][3])
+
+### **Regulatory and Legal Risk**
+
+* Misuse or poor governance of AI could lead to **violations of insurance laws**, including unfair trade practices or discriminatory practices, and trigger enforcement actions. ([NAIC][1])
+
+### **Operational and Model Risk**
+
+* Lack of robust testing, documentation, and oversight increases the likelihood of **inaccurate, inconsistent, or unreliable outputs**, undermining pricing accuracy and business decisions. ([S&P Global][3])
+
+### **Reputation Risk**
+
+* Poorly governed AI can erode **consumer trust** and attract negative scrutiny from regulators, consumers, or public stakeholders. ([S&P Global][3])
+
+---
+
+## **6) Practical Takeaway — What Insurers Should Do**
+
+Here are practical steps insurers should take now:
+
+### **Establish Comprehensive AI Governance**
+
+* Create a **written AIS Program** covering AI inventory, policies, roles, oversight, and lifecycle management.
+* Formalize senior leadership and board accountability for AI risks. ([NAIC][1])
+
+### **Implement Strong Risk Management**
+
+* Build frameworks for **validation, bias testing, documentation, and monitoring** of AI systems.
+* Integrate internal controls tailored to the scale and complexity of AI use, including **vendor and third-party oversight**. ([NAIC][1])
+
+### **Prepare for Regulatory Evaluation**
+
+* Maintain clear records that a regulator could request, including inventories, governance descriptions, risk assessments, and consumer impacts.
+* Use the **AI Systems Evaluation Tool’s structures** as internal checklists to self-assess readiness and risk exposure ahead of regulator inquiries. ([Eversheds Sutherland][2])
+
+### **Communicate with Consumers**
+
+* Provide appropriate **notices and explanations** when AI affects decisions that impact customers.
+* Ensure consumer explanations are understandable and meet regulatory expectations. ([NAIC][1])
+
+### **Stay Aligned with State Adoption**
+
+* Track which states have **adopted the Model Bulletin** or are using the evaluation tool and adapt compliance strategies accordingly. ([NAIC][4])
+
+---
+=
+
